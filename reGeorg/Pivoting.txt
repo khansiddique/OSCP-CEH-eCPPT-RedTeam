@@ -6,3 +6,11 @@ Dependencies
 reGeorg requires Python 2.7 and the following modules:
 
     urllib3 - HTTP library with thread-safe connection pooling, file post, and more.
+
+
+Credit Goes to: 
+staaldraad
+Etienne Stalmans 
+Link: https://github.com/sensepost/reGeorg/tree/master
+
+
