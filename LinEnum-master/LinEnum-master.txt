@@ -1,0 +1,5 @@
+Credit goes to: rebootuser
+rebootuser LinEnum.sh code you can Find here: 
+
+Reference:
+Credit Gives to : https://github.com/rebootuser/LinEnum
