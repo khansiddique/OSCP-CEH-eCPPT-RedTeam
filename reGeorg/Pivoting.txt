@@ -1,0 +1,8 @@
+Version
+
+1.0
+Dependencies
+
+reGeorg requires Python 2.7 and the following modules:
+
+    urllib3 - HTTP library with thread-safe connection pooling, file post, and more.
